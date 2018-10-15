@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "879235651663",
+    "firebase_url": "https://phum-music-39fb9.firebaseio.com",
+    "project_id": "phum-music-39fb9",
+    "storage_bucket": "phum-music-39fb9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879235651663:android:915f37c641f1bae0",
+        "android_client_info": {
+          "package_name": "com.asvacode.phummusic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "879235651663-6u4jas79ru6k1r3a6cqcvhuk8ajnnun1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGMXtXijrE0kl5dfcrTM3qoRtlSlBAPTI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
