@@ -1,4 +1,4 @@
-package com.asvacode.phummusic.manager
+package com.asvacode.phummusic.shared.manager
 
 /**
  * Created by: cheasocheat

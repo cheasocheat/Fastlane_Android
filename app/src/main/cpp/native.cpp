@@ -8,7 +8,7 @@
 #include "native.h"
 
 JNIEXPORT jstring JNICALL
-Java_com_asvacode_phummusic_manager_NativeManager_getAppName(JNIEnv *env, jobject) {
+Java_com_asvacode_phummusic_shared_manager_NativeManager_getAppName(JNIEnv *env, jobject) {
     std::string appName = "Phum Music";
     return env->NewStringUTF(appName.c_str());
 }

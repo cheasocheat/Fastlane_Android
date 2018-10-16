@@ -1,7 +1,7 @@
 package com.asvacode.phummusic
 
 import com.asvacode.phummusic.shared.AppLogger
-import com.asvacode.phummusic.manager.NativeManager
+import com.asvacode.phummusic.shared.manager.NativeManager
 import org.junit.Test
 
 import org.junit.Assert.*

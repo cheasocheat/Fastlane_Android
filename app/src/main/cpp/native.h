@@ -10,7 +10,7 @@ extern "C" {
 #endif
 
 JNIEXPORT jstring
-Java_com_asvacode_phummusic_manager_NativeManager_getAppName(JNIEnv *env, jobject);
+Java_com_asvacode_phummusic_shared_manager_NativeManager_getAppName(JNIEnv *env, jobject);
 
 #ifdef __cplusplus
 }

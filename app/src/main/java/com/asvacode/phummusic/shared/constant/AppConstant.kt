@@ -9,5 +9,10 @@ class AppConstant {
     companion object {
         const val DEFAULT_DATE_FORMAT = "yyyy-MM-dd HH:mm:ss.SSS" //Do not change
         const val LIMIT_ITEM_PER_PAGE = 10
+
+
+        //Firebase
+        const val REGISTRATION_COMPLETE = "reg_complete"
+        const val PUSH_NOTIFICATION = "push_notification"
     }
 }
