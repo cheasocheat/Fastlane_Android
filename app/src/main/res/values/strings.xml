@@ -1,5 +1,4 @@
 <resources>
-    <string name="app_name">PhumMusic</string>
     <string name="some_err">Error</string>
     <string name="default_notification_channel_id">fcm_default_channel</string>\
 </resources>

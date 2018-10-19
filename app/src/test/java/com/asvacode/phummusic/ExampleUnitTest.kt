@@ -19,6 +19,6 @@ class ExampleUnitTest {
 
     @Test
     fun testNative(){
-        AppLogger.d("${NativeManager.getAppName()}")
+        AppLogger.d("This is logical test!")
     }
 }
